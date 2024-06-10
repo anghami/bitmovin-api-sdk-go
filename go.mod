@@ -1,4 +1,4 @@
-module github.com/bitmovin/bitmovin-api-sdk-go
+module github.com/anghami/bitmovin-api-sdk-go
 
 go 1.13
 
